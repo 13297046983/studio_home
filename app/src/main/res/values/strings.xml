@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">拉手网</string>
+    <string name="yindaoye">引导页</string>
+    <string name="experience">立即体验</string>
+    <string name="tuangou">团购</string>
+    <string name="near">附近</string>
+    <string name="mine">我的</string>
+    <string name="more">更多</string>
+</resources>

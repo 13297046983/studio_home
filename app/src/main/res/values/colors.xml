@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#ffff6900</color>
+    <color name="location_city_bg">#ffe1e1e0</color>
+    <color name="gray">#ff666666</color>
+    <color name="black">#ff000000</color>
+
+    <color name="app_white">#fff1f1f2</color>
+    <color name="title_color">#ff3f3f3f</color>
+    <color name="value_color">#ffa2a2a2</color>
+    
+    <color name="half_transparent">#a0000000</color>
+    <color name="light_transparent">#80000000</color>
+    
+    <color name="item_0">#38AD54</color>
+    <color name="item_1">#54B0E4</color>
+    <color name="item_2">#4AB0B1</color>
+    <color name="item_3">#53AFE4</color>
+    <color name="item_4">#43B15E</color>
+    <color name="item_5">#FF8888</color>
+    <color name="item_6">#3BA4E0</color>
+    <color name="item_7">#FF8E8E</color>
+    <color name="item_8">#FFAE45</color>
+    
+    
+    
+</resources>

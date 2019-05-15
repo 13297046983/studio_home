@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/item_city_selction"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:text="定位城市"
+
+        android:textColor="@color/app_white"
+        android:background="@color/location_city_bg"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/item_city"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="北京"
+        android:gravity="center_vertical"
+        android:paddingBottom="10.0dip"
+        android:paddingLeft="12dip"
+        android:paddingTop="10.0dip"
+        android:textColor="@color/black"
+        android:textAppearance="?android:textAppearanceMedium"/>
+</LinearLayout>
